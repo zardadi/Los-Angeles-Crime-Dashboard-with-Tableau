@@ -1,3 +1,3 @@
 # Los-Angeles-Crime-Dashboard with Tableau
 
-https://10ay.online.tableau.com/t/zardadi/views/Crime-LA-Data-Visualization/TotalCrime?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no 
+https://public.tableau.com/views/Book2_15524181288590/Geo-locations?:embed=y&:display_count=yes&publish=yes
